@@ -28,6 +28,7 @@
 		<ENG>Close</ENG>
 		<ES>Cerrar</ES>
 	</close>
+	<!-- OutputChatBox -->
 	<corruptedfiles>
 		<PTBR>Os arquivos do mapa estão corrompidos ou não foram baixados</PTBR>
 		<ENG>Map files are corrupted or not downloaded</ENG>
@@ -53,4 +54,9 @@
 		<ENG>The map download has finished</ENG>
 		<ES>La descarga del mapa ha finalizado</ES>
 	</downloadfinished>
+	<alreadydownloading>
+		<PTBR>Você já está baixando um mapa</PTBR>
+		<ENG>You're already downloading a map</ENG>
+		<ES>Ya estás descargando un mapa</ES>
+	</alreadydownloading>
 </language>
