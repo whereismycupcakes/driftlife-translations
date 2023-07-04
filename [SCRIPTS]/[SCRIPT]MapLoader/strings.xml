@@ -1,6 +1,56 @@
 <language>
-	<downloadingFiles>
-		<PTBR>Configurações</PTBR>
-		<ENG>Settings</ENG>
-	</settings>
+	<window>
+		<PTBR>Baixador de mapas</PTBR>
+		<ENG>Map downloader</ENG>
+		<ES>Descargador de mapas</ES>
+	</window>
+	<info>
+		<PTBR>Clique 2 vezes para teleportar.</PTBR>
+		<ENG>Double click to teleport.</ENG>
+		<ES>Haz clic 2 veces para teletransportarte.</ES>
+	</info>
+	<warp>
+		<PTBR>Teleportar</PTBR>
+		<ENG>Warp</ENG>
+		<ES>Teletransportarse</ES>
+	</download>
+		<PTBR>Verificar e baixar</PTBR>
+		<ENG>Check and download</ENG>
+		<ES>Comprobar y descargar</ES>
+	</download>
+	</delete>
+		<PTBR>Deletar</PTBR>
+		<ENG>Delete</ENG>
+		<ES>Borrar</ES>
+	</delete>
+	</close>
+		<PTBR>Fechar</PTBR>
+		<ENG>Close</ENG>
+		<ES>Cerrar</ES>
+	</close>
+	<corruptedfiles>
+		<PTBR>Os arquivos do mapa estão corrompidos ou não foram baixados</PTBR>
+		<ENG>Map files are corrupted or not downloaded</ENG>
+		<ES>Los archivos de mapas están dañados o no se descargaron</ES>
+	</corruptedfiles>
+	<alreadydownloaded>
+		<PTBR>O mapa já está baixado</PTBR>
+		<ENG>The map is already downloaded</ENG>
+		<ES>El mapa ya está descargado</ES>
+	</alreadydownloaded>
+	<deletedmap>
+		<PTBR>Você deletou o mapa</PTBR>
+		<ENG>You've deleted the map</ENG>
+		<ES>Has eliminado el mapa</ES>
+	</deletedmap>
+	<downloadingmap>
+		<PTBR>Baixando arquivos</PTBR>
+		<ENG>Downloading files</ENG>
+		<ES>Descargando archivos</ES>
+	</downloadingmap>
+	<downloadfinished>
+		<PTBR>O download do mapa terminou</PTBR>
+		<ENG>The map download has finished</ENG>
+		<ES>La descarga del mapa ha finalizado</ES>
+	</downloadfinished>
 </language>
