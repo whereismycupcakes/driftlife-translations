@@ -39,5 +39,5 @@ New files will be added from time passing, so you can be up-to-date on our disco
 
 Send your github user that made pull requests to this repository on my private message, and you'll get a **beta tester** role on discord, where you'll be able to access the testing server, and help further, if you want.
 
-# THE FILE [OTHER]/language/strings.xml CAN BE IGNORED !
+# THE FILE [OTHER]/language/strings.xml CAN BE IGNORED !!
 
