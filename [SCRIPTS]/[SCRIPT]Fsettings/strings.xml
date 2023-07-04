@@ -1,0 +1,62 @@
+<language>
+	<settings>
+		<PTBR>Configurações</PTBR>
+		<ENG>Settings</ENG>
+		<ES>Ajustes</ES>
+	</settings>
+	<slowtime>
+		<PTBR>Diminuir tempo (Shift Esquerdo)</PTBR>
+		<ENG>Slow time (Left shift)</ENG>
+		<ES>Tiempo lento (Shift izquierdo)</ES>
+	</slowtime>
+	<realistic_sky>
+		<PTBR>Céu realista</PTBR>
+		<ENG>Realistic sky</ENG>
+		<ES>Cielo realista</ES>
+	</realistic_sky>
+	<wheel_smoke>
+		<PTBR>Fumaça do pneu</PTBR>
+		<ENG>Wheels smoke</ENG>
+		<ES>Humo de rueda</ES>
+	</wheel_smoke>
+	<headlights>
+		<ENG>Dynamic headlights</ENG>
+		<PTBR>Faróis dinâmicos</PTBR>
+		<ES>Faros dinámicos</ES>
+	</headlights>
+	<reflection_car>
+		<PTBR>Reflexo do carro</PTBR>
+		<ENG>Reflection car</ENG>
+		<ES>Reflejo del ayti</ES>
+	</reflection_car>
+	<reflection_water>
+		<PTBR>Reflexo da água</PTBR>
+		<ENG>Reflection water</ENG>
+		<ES>Reflejo del agua</ES>
+	</reflection_water>
+	<snow>
+		<PTBR>Neve</PTBR>
+		<ENG>Snow</ENG>
+		<ES>Nieve</ES>
+	</snow>
+	<hdroads>
+		<PTBR>Ruas em HD</PTBR>
+		<ENG>HD Roads</ENG>
+		<ES>Carreteras de alta definición</ES>
+	</hdroads>
+	<steeringhelp>
+		<PTBR>Assistência de direção</PTBR>
+		<ENG>Steering help</ENG>
+		<ES>Asistencia a la conducción</ES>
+	</steeringhelp>
+	<renderdistance>
+		<PTBR>Distância de renderização</PTBR>
+		<ENG>Render distance</ENG>
+		<ES>Distancia de representación</ES>
+	</renderdistance>
+	<close>
+		<PTBR>Fechar</PTBR>
+		<ENG>Close</ENG>
+		<ES>Cerrar</ES>
+	</close>
+</language>

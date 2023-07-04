@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+
+<language>
+
+
+<guiLoop>
+
+<POL>Stwórz loopa (pętle)</POL>
+
+<ENG>Create loop</ENG>
+
+<RUS>Create loop</RUS>
+
+<GER>Create loop</GER>
+
+<TUR>Create loop</TUR>
+
+</guiLoop>
+
+
+<guiWall>
+
+<POL>Stwórz wallride</POL>
+
+<ENG>Create wallride</ENG>
+
+<RUS>Create wallride</RUS>
+
+<GER>Create wallride</GER>
+
+<TUR>Create wallride</TUR>
+
+</guiWall>
+
+
+<guiRamp>
+
+<POL>Stwórz wyskok</POL>
+
+<ENG>Create ramp</ENG>
+
+<RUS>Create ramp</RUS>
+
+<GER>Create ramp</GER>
+
+<TUR>Create ramp</TUR>
+
+</guiRamp>
+
+</language>
