@@ -1,0 +1,93 @@
+<language>
+    <login>
+
+        <PTBR>Logar</PTBR>
+        <ENG>Login</ENG>
+        <ES>Logar</ES>
+    </login>
+    <account>
+        <PTBR>Conta</PTBR>
+        <ENG>Account</ENG>
+        <ES>Cuenta</ES>
+    </account>
+    <password>
+        <PTBR>Senha</PTBR>
+        <ENG>Password</ENG>
+        <ES>Contrasenã</ES>
+    </password>
+    <remember>
+        <PTBR>Lembrar</PTBR>
+        <ENG>Remember</ENG>
+        <ES>Recordar</ES>
+    </remember>
+    <register>
+        <PTBR>Registro</PTBR>
+        <ENG>Register</ENG>
+        <ES>Registro</ES>
+    </register>
+    <specialcharacter>
+        <PTBR>Não utilize caracteres especiais</PTBR>
+        <ENG>Don't use special characters</ENG>
+        <ES>No use caracteres especiales</ES>
+    </specialcharacter>
+    <specialcharacter>
+        <PTBR>Não utilize caracteres especiais</PTBR>
+        <ENG>Don't use special characters</ENG>
+        <ES>No use caracteres especiales</ES>
+    </specialcharacter>
+    <repeatpassword>
+        <PTBR>Repita a senha</PTBR>
+        <ENG>Repeat password</ENG>
+        <ES>Repite la contraseña</ES>
+    </repeatpassword>
+    <createacc>
+        <PTBR>Criar conta</PTBR>
+        <ENG>Create account</ENG>
+        <ES>Crear cuenta</ES>
+    </createacc>
+    <wrongdata>
+        <PTBR>Usuário ou senha incorretos</PTBR>
+        <ENG>Wrong username or password</ENG>
+        <ES>Cuenta o contraseña incorrectas</ES>
+    </wrongdata>
+    <passmissing>
+        <PTBR>A senha está faltando</PTBR>
+        <ENG>The password is missing</ENG>
+        <ES>Falta la contraseña</ES>
+    </passmissing>
+    <usermissing>
+        <PTBR>A conta está faltando</PTBR>
+        <ENG>The account is missing</ENG>
+        <ES>Falta la cuenta</ES>
+    </usermissing>
+    <successregister>
+        <PTBR>Você se registrou com sucesso</PTBR>
+        <ENG>You have successfully registered</ENG>
+        <ES>Se ha registrado exitosamente</ES>
+    </successregister>
+    <errorocurred>
+        <PTBR>Ocorreu um erro, tente com outro usuário/senha</PTBR>
+        <ENG>An error ocurred, please choose different username/password</ENG>
+        <ES>Ocurrió un error, elija una cuenta/contraseña diferente</ES>
+    </errorocurred>
+    <accalreadyexist>
+        <PTBR>Uma conta já existe com este nome</PTBR>
+        <ENG>An account with this username already exists</ENG>
+        <ES>Ya existe una cuenta con este nombre de usuario</ES>
+    </accalreadyexist>
+    <passwordmismatch>
+        <PTBR>As senhas não conferem</PTBR>
+        <ENG>Passwords don't match</ENG>
+        <ES>Las contraseñas no coinciden</ES>
+    </passwordmismatch>
+    <confirmpassword>
+        <PTBR>Por favor confirme a senha</PTBR>
+        <ENG>Please confirm the password</ENG>
+        <ES>Por favor confirme la contraseña</ES>
+    </confirmpassword>
+        <confirmpassword>
+        <PTBR>Por favor confirme a senha</PTBR>
+        <ENG>Please confirm the password</ENG>
+        <ES>Por favor confirme la contraseña</ES>
+    </confirmpassword>
+</language>
