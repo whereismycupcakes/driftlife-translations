@@ -13,17 +13,18 @@
 		<PTBR>Teleportar</PTBR>
 		<ENG>Warp</ENG>
 		<ES>Teletransportarse</ES>
-	</download>
+	</warp>
+	<download>
 		<PTBR>Verificar e baixar</PTBR>
 		<ENG>Check and download</ENG>
 		<ES>Comprobar y descargar</ES>
 	</download>
-	</delete>
+	<delete>
 		<PTBR>Deletar</PTBR>
 		<ENG>Delete</ENG>
 		<ES>Borrar</ES>
 	</delete>
-	</close>
+	<close>
 		<PTBR>Fechar</PTBR>
 		<ENG>Close</ENG>
 		<ES>Cerrar</ES>
