@@ -3,126 +3,151 @@
         <PTBR>Meu time</PTBR>
         <ENG>My team</ENG>
         <ES>Mi equipo</ES>
+        <RU>Моя комманда</RU>
     </myteam>
     <manageteam>
         <PTBR>Gerenciar meu time</PTBR>
         <ENG>Manage my team</ENG>
         <ES>Administrar equipo</ES>
+        <RU>Управление моей коммандой</RU>
     </manageteam>
     <searchforclan>
         <PTBR>Pesquisar por time:</PTBR>
         <ENG>Search for team:</ENG>
         <ES>Buscar por equipo</ES>
+        <RU>Поиск комманды:</RU>
     </searchforclan>
     <team>
         <PTBR>Time</PTBR>
         <ENG>Team</ENG>
         <ES>Equipo</ES>
+        <RU>Комманда</RU>
     </team>
     <identification>
         <PTBR>Nome:</PTBR>
         <ENG>Name:</ENG>
         <ES>Nombre:</ES>
+        <RU>Название:</RU>
     </identification>
     <createdat>
         <PTBR>Data de criação:</PTBR>
         <ENG>Creation date:</ENG>
         <ES>Fecha de creación:</ES>
+        <RU>Дата создания:</RU>
     </createdat>
     <members>
         <PTBR>Membros</PTBR>
         <ENG>Members</ENG>
         <ES>Miembros</ES>
+        <RU>Участники</RU>
     </members>
     <rank>
         <PTBR>Cargo</PTBR>
         <ENG>Role</ENG>
         <ES>Cargo</ES>
+        <RU>Роль</RU>
     </rank>
     <online>
         <PTBR>Online</PTBR>
         <ENG>Online</ENG>
         <ES>Online</ES>
+        <RU>Online</RU>
     </online>
     <championship>
         <PTBR>Campeonato:</PTBR>
         <ENG>Championships:</ENG>
         <ES>Campeonatos:</ES>
+        <RU>Чемпионаты:</RU>
     </championship>
     <championshipwon>
         <PTBR>Campeonatos vencidos:</PTBR>
         <ENG>Won championships:</ENG>
         <ES>Campeonatos ganados:</ES>
+        <RU>Победы в чемпионатах:</RU>
     </championshipwon>
     <clanresponsible>
         <PTBR>Responsável do time:</PTBR>
         <ENG>Team manager:</ENG>
         <ES>Administrador del equipo:</ES>
+        <RU>Руководитель комманды:</RU>
     </clanresponsible>
     <playeroftheweek>
         <PTBR>Jogador da semana do time:</PTBR>
         <ENG>Weekly player from team:</ENG>
         <ES>Jugador semanal del equipo</ES>
+        <RU>Недельный игрок из комманды:</RU>
     </playeroftheweek>
     <editingteam>
         <PTBR>Editando o time</PTBR>
         <ENG>Managing team</ENG>
         <ES>Editando el equipo</ES>
+        <RU>Управление коммандой</RU>
     </editingteam>
     <promote>
         <PTBR>Promover</PTBR>
         <ENG>Promote</ENG>
         <ES>Promocionar</ES>
+        <RU>Повысить</RU>
     </promote>
     <demote>
         <PTBR>Rebaixar</PTBR>
         <ENG>Demote</ENG>
         <ES>Degradar</ES>
+        <RU>Понизить</RU>
     </demote>
     <setplayeroftheweek>
         <PTBR>Player da semana</PTBR>
         <ENG>Player of the week</ENG>
         <ES>Jugador da semana</ES>
+        <RU>Игрок недели</RU>
     </setplayeroftheweek>
     <clanresponsible2>
         <PTBR>Responsável do time</PTBR>
         <ENG>Team manager:</ENG>
         <ES>Administrador del equipo</ES>
+        <RU>Управляющий коммандой:</RU>
     </clanresponsible2>
     <memberfilter>
         <PTBR>Filtrar por membro</PTBR>
         <ENG>Filter by member</ENG>
         <ES>Filtrar por miembro</ES>
+        <RU>Сортировать по участникам</RU>
     </memberfilter>
     <kick>
         <PTBR>Expulsar</PTBR>
         <ENG>Kick</ENG>
         <ES>Expulsar</ES>
+        <RU>Исключить</RU>
     </kick>
     <yes>
         <PTBR>Sim</PTBR>
         <ENG>Yes</ENG>
         <ES>Si</ES>
+        <RU>Да</RU>
     </yes>
     <no>
         <PTBR>Não</PTBR>
         <ENG>No</ENG>
         <ES>No</ES>
+        <RU>Нет</RU>
     </no>
     <rank_owner>
         <PTBR>Dono</PTBR>
         <ENG>Owner</ENG>
         <ES>Duenõ</ES>
+        <RU>Владелец</RU>
     </rank_owner>
     <rank_admin>
         <PTBR>Admin</PTBR>
         <ENG>Admin</ENG>
         <ES>Admin</ES>
+        <RU>Админ</RU>
     </rank_admin>
     <rank_member>
         <PTBR>Membro</PTBR>
         <ENG>Member</ENG>
         <ES>Miembro</ES>
+        <RU>Участник</RU>
     </rank_member>
 </language>
 <!--
