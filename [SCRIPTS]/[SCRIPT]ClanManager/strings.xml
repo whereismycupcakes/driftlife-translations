@@ -51,7 +51,7 @@
         <PTBR>Online</PTBR>
         <ENG>Online</ENG>
         <ES>Online</ES>
-        <RU>Online</RU>
+        <RU>Онлайн</RU>
     </online>
     <championship>
         <PTBR>Campeonato:</PTBR>
@@ -75,7 +75,7 @@
         <PTBR>Jogador da semana do time:</PTBR>
         <ENG>Weekly player from team:</ENG>
         <ES>Jugador semanal del equipo</ES>
-        <RU>Недельный игрок из комманды:</RU>
+        <RU>Игрок недели из комманды:</RU>
     </playeroftheweek>
     <editingteam>
         <PTBR>Editando o time</PTBR>
