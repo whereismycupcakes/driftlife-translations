@@ -3,61 +3,73 @@
 		<PTBR>Baixador de mapas</PTBR>
 		<ENG>Map downloader</ENG>
 		<ES>Descargador de mapas</ES>
+		<RU>Загрузчик карты</RU>
 	</window>
 	<info>
 		<PTBR>Clique 2 vezes para teleportar.</PTBR>
 		<ENG>Double click to teleport.</ENG>
 		<ES>Haz clic 2 veces para teletransportarte.</ES>
+		<RU>Для телепорта нажмите 2 раза.</RU>
 	</info>
 	<warp>
 		<PTBR>Teleportar</PTBR>
 		<ENG>Warp</ENG>
 		<ES>Teletransportarse</ES>
+		<RU>Телепорт</RU>
 	</warp>
 	<download>
 		<PTBR>Verificar e baixar</PTBR>
 		<ENG>Check and download</ENG>
 		<ES>Comprobar y descargar</ES>
+		<RU>Проверить и скачать</RU>
 	</download>
 	<delete>
 		<PTBR>Deletar</PTBR>
 		<ENG>Delete</ENG>
 		<ES>Borrar</ES>
+		<RU>Удалить</RU>
 	</delete>
 	<close>
 		<PTBR>Fechar</PTBR>
 		<ENG>Close</ENG>
 		<ES>Cerrar</ES>
+		<RU>Закрыть</RU>
 	</close>
 	<!-- OutputChatBox -->
 	<corruptedfiles>
 		<PTBR>Os arquivos do mapa estão corrompidos ou não foram baixados</PTBR>
 		<ENG>Map files are corrupted or not downloaded</ENG>
 		<ES>Los archivos de mapas están dañados o no se descargaron</ES>
+		<RU>Файлы карты повреждены или не установленны</RU>
 	</corruptedfiles>
 	<alreadydownloaded>
 		<PTBR>O mapa já está baixado</PTBR>
 		<ENG>The map is already downloaded</ENG>
 		<ES>El mapa ya está descargado</ES>
+		<RU>Карта загружена</RU>
 	</alreadydownloaded>
 	<deletedmap>
 		<PTBR>Você deletou o mapa</PTBR>
 		<ENG>You've deleted the map</ENG>
 		<ES>Has eliminado el mapa</ES>
+		<RU>Вы удалили карту</RU>
 	</deletedmap>
 	<downloadingmap>
 		<PTBR>Baixando arquivos</PTBR>
 		<ENG>Downloading files</ENG>
 		<ES>Descargando archivos</ES>
+		<RU>Загрузка файлов</RU>
 	</downloadingmap>
 	<downloadfinished>
 		<PTBR>O download do mapa terminou</PTBR>
 		<ENG>The map download has finished</ENG>
 		<ES>La descarga del mapa ha finalizado</ES>
+		<RU>Загрузка карты завершена</RU>
 	</downloadfinished>
 	<alreadydownloading>
 		<PTBR>Você já está baixando um mapa</PTBR>
 		<ENG>You're already downloading a map</ENG>
 		<ES>Ya estás descargando un mapa</ES>
+		<RU>Вы уже загружаете карту</RU>
 	</alreadydownloading>
 </language>
