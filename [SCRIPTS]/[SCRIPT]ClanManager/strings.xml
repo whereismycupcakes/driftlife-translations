@@ -3,126 +3,151 @@
         <PTBR>Meu time</PTBR>
         <ENG>My team</ENG>
         <ES>Mi equipo</ES>
+        <TUR>Takımım</TUR>
     </myteam>
     <manageteam>
         <PTBR>Gerenciar meu time</PTBR>
         <ENG>Manage my team</ENG>
         <ES>Administrar equipo</ES>
+        <TUR>Takımımı yönet</TUR>
     </manageteam>
     <searchforclan>
         <PTBR>Pesquisar por time:</PTBR>
         <ENG>Search for team:</ENG>
         <ES>Buscar por equipo</ES>
+        <TUR>Takım arayın:</TUR>
     </searchforclan>
     <team>
         <PTBR>Time</PTBR>
         <ENG>Team</ENG>
         <ES>Equipo</ES>
+        <TUR>Takım</TUR>
     </team>
     <identification>
         <PTBR>Nome:</PTBR>
         <ENG>Name:</ENG>
         <ES>Nombre:</ES>
+        <TUR>İsim:</TUR>
     </identification>
     <createdat>
         <PTBR>Data de criação:</PTBR>
         <ENG>Creation date:</ENG>
         <ES>Fecha de creación:</ES>
+        <TUR>Oluşturulma tarihi:</TUR>
     </createdat>
     <members>
         <PTBR>Membros</PTBR>
         <ENG>Members</ENG>
         <ES>Miembros</ES>
+        <TUR>Üyeler</TUR>
     </members>
     <rank>
         <PTBR>Cargo</PTBR>
         <ENG>Role</ENG>
         <ES>Cargo</ES>
+        <TUR>Rol</TUR>
     </rank>
     <online>
         <PTBR>Online</PTBR>
         <ENG>Online</ENG>
         <ES>Online</ES>
+        <TUR>Aktif</TUR>
     </online>
     <championship>
         <PTBR>Campeonato:</PTBR>
         <ENG>Championships:</ENG>
         <ES>Campeonatos:</ES>
+        <TUR>Şampiyonalar:</TUR>
     </championship>
     <championshipwon>
         <PTBR>Campeonatos vencidos:</PTBR>
         <ENG>Won championships:</ENG>
         <ES>Campeonatos ganados:</ES>
+        <TUR>Kazanılan Şampiyonluklar:</TUR>
     </championshipwon>
     <clanresponsible>
         <PTBR>Responsável do time:</PTBR>
         <ENG>Team manager:</ENG>
         <ES>Administrador del equipo:</ES>
+        <TUR>Takım yöneticisi:</TUR>
     </clanresponsible>
     <playeroftheweek>
         <PTBR>Jogador da semana do time:</PTBR>
         <ENG>Weekly player from team:</ENG>
         <ES>Jugador semanal del equipo</ES>
+        <TUR>Haftalık oyuncu</TUR>
     </playeroftheweek>
     <editingteam>
         <PTBR>Editando o time</PTBR>
         <ENG>Managing team</ENG>
         <ES>Editando el equipo</ES>
+        <TUR>Yönetici ekip</TUR>
     </editingteam>
     <promote>
         <PTBR>Promover</PTBR>
         <ENG>Promote</ENG>
         <ES>Promocionar</ES>
+        <TUR>Terfi et</TUR>
     </promote>
     <demote>
         <PTBR>Rebaixar</PTBR>
         <ENG>Demote</ENG>
         <ES>Degradar</ES>
+        <TUR>Rütbesini düşür</TUR>
     </demote>
     <setplayeroftheweek>
         <PTBR>Player da semana</PTBR>
         <ENG>Player of the week</ENG>
         <ES>Jugador da semana</ES>
+        <TUR>Haftanın daşaklı oyuncusu</TUR>
     </setplayeroftheweek>
     <clanresponsible2>
         <PTBR>Responsável do time</PTBR>
         <ENG>Team manager:</ENG>
         <ES>Administrador del equipo</ES>
+        <TUR>Takım yöneticisi</TUR>
     </clanresponsible2>
     <memberfilter>
         <PTBR>Filtrar por membro</PTBR>
         <ENG>Filter by member</ENG>
         <ES>Filtrar por miembro</ES>
+        <TUR>Oyuncu filtrele</TUR>
     </memberfilter>
     <kick>
         <PTBR>Expulsar</PTBR>
         <ENG>Kick</ENG>
         <ES>Expulsar</ES>
+        <TUR>At</TUR>
     </kick>
     <yes>
         <PTBR>Sim</PTBR>
         <ENG>Yes</ENG>
         <ES>Si</ES>
+        <TUR>Evt</TUR>
     </yes>
     <no>
         <PTBR>Não</PTBR>
         <ENG>No</ENG>
         <ES>No</ES>
-    </no>
+        <TUR>Hyr</TUR>
+    </no> 
     <rank_owner>
         <PTBR>Dono</PTBR>
         <ENG>Owner</ENG>
         <ES>Duenõ</ES>
+        <TUR>Yönetici</TUR>
     </rank_owner>
     <rank_admin>
         <PTBR>Admin</PTBR>
         <ENG>Admin</ENG>
         <ES>Admin</ES>
+        <TUR>Admin</TUR>
     </rank_admin>
     <rank_member>
         <PTBR>Membro</PTBR>
         <ENG>Member</ENG>
         <ES>Miembro</ES>
+        <TUR>Oyuncu</TUR>
     </rank_member>
 </language>
 <!--
