@@ -3,60 +3,72 @@
 		<PTBR>Configurações</PTBR>
 		<ENG>Settings</ENG>
 		<ES>Ajustes</ES>
+		<TUR>Ayarlar</TUR>
 	</settings>
 	<slowtime>
 		<PTBR>Diminuir tempo (Shift Esquerdo)</PTBR>
 		<ENG>Slow time (Left shift)</ENG>
 		<ES>Tiempo lento (Shift izquierdo)</ES>
+		<ES>Yavaş zaman (Sol shift)s</ES>
 	</slowtime>
 	<realistic_sky>
 		<PTBR>Céu realista</PTBR>
 		<ENG>Realistic sky</ENG>
 		<ES>Cielo realista</ES>
+		<TUR>Gerçekçi gökyüzü</TUR>
 	</realistic_sky>
 	<wheel_smoke>
 		<PTBR>Fumaça do pneu</PTBR>
 		<ENG>Wheels smoke</ENG>
 		<ES>Humo de rueda</ES>
+		<TUR>Lastik dumanı</TUR>
 	</wheel_smoke>
 	<headlights>
 		<ENG>Dynamic headlights</ENG>
 		<PTBR>Faróis dinâmicos</PTBR>
 		<ES>Faros dinámicos</ES>
+		<TUR>Dinamik far</TUR>
 	</headlights>
 	<reflection_car>
 		<PTBR>Reflexo do carro</PTBR>
 		<ENG>Reflection car</ENG>
 		<ES>Reflejo del ayti</ES>
+		<TUR>Araç yansıması</TUR>
 	</reflection_car>
 	<reflection_water>
 		<PTBR>Reflexo da água</PTBR>
 		<ENG>Reflection water</ENG>
 		<ES>Reflejo del agua</ES>
+		<TUR>Su yansıması</TUR>
 	</reflection_water>
 	<snow>
 		<PTBR>Neve</PTBR>
 		<ENG>Snow</ENG>
 		<ES>Nieve</ES>
+		<TUR>Kar</TUR>
 	</snow>
 	<hdroads>
 		<PTBR>Ruas em HD</PTBR>
 		<ENG>HD Roads</ENG>
 		<ES>Carreteras de alta definición</ES>
+		<TUR>HD yol</TUR>
 	</hdroads>
 	<steeringhelp>
 		<PTBR>Assistência de direção</PTBR>
 		<ENG>Steering help</ENG>
 		<ES>Asistencia a la conducción</ES>
+		<TUR>Tekerlek desteği</TUR>
 	</steeringhelp>
 	<renderdistance>
 		<PTBR>Distância de renderização</PTBR>
 		<ENG>Render distance</ENG>
 		<ES>Distancia de representación</ES>
+		<TUR>Oluşturma mesafesi</TUR>
 	</renderdistance>
 	<close>
 		<PTBR>Fechar</PTBR>
 		<ENG>Close</ENG>
 		<ES>Cerrar</ES>
+		<TUR>Kapat</TUR>
 	</close>
 </language>
