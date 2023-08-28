@@ -3,73 +3,73 @@
 		<PTBR>Baixador de mapas</PTBR>
 		<ENG>Map downloader</ENG>
 		<ES>Descargador de mapas</ES>
-		<TUR>Harita yükleyicisi</TUR>
+		<TR>Harita yükleyicisi</TR>
 	</window>
 	<info>
 		<PTBR>Clique 2 vezes para teleportar.</PTBR>
 		<ENG>Double click to teleport.</ENG>
 		<ES>Haz clic 2 veces para teletransportarte.</ES>
-		<TUR>Işınlanmak için iki kere tıkla.</TUR>
+		<TR>Işınlanmak için iki kere tıkla.</TR>
 	</info>
 	<warp>
 		<PTBR>Teleportar</PTBR>
 		<ENG>Warp</ENG>
 		<ES>Teletransportarse</ES>
-		<TUR>Işınlan</TUR>
+		<TR>Işınlan</TR>
 	</warp>
 	<download>
 		<PTBR>Verificar e baixar</PTBR>
 		<ENG>Check and download</ENG>
 		<ES>Comprobar y descargar</ES>
-		<TUR>Kontrol et ve indir</TUR>
+		<TR>Kontrol et ve indir</TR>
 	</download>
 	<delete>
 		<PTBR>Deletar</PTBR>
 		<ENG>Delete</ENG>
 		<ES>Borrar</ES>
-		<TUR>Sil</TUR>
+		<TR>Sil</TR>
 	</delete>
 	<close>
 		<PTBR>Fechar</PTBR>
 		<ENG>Close</ENG>
 		<ES>Cerrar</ES>
-		<TUR>Kapat</TUR>
+		<TR>Kapat</TR>
 	</close>
 	<!-- OutputChatBox -->
 	<corruptedfiles>
 		<PTBR>Os arquivos do mapa estão corrompidos ou não foram baixados</PTBR>
 		<ENG>Map files are corrupted or not downloaded</ENG>
 		<ES>Los archivos de mapas están dañados o no se descargaron</ES>
-		<TUR>Harita dosyaları bozuk veya indirilmemiş</TUR>
+		<TR>Harita dosyaları bozuk veya indirilmemiş</TR>
 	</corruptedfiles>
 	<alreadydownloaded>
 		<PTBR>O mapa já está baixado</PTBR>
 		<ENG>The map is already downloaded</ENG>
 		<ES>El mapa ya está descargado</ES>
-		<TUR>Bu harita zaten indirili</TUR>
+		<TR>Bu harita zaten indirili</TR>
 	</alreadydownloaded>
 	<deletedmap>
 		<PTBR>Você deletou o mapa</PTBR>
 		<ENG>You've deleted the map</ENG>
 		<ES>Has eliminado el mapa</ES>
-		<TUR>Haritayı sildiniz</TUR>
+		<TR>Haritayı sildiniz</TR>
 	</deletedmap>
 	<downloadingmap>
 		<PTBR>Baixando arquivos</PTBR>
 		<ENG>Downloading files</ENG>
 		<ES>Descargando archivos</ES>
-		<TUR>Dosyalar indiriliyor</TUR>
+		<TR>Dosyalar indiriliyor</TR>
 	</downloadingmap>
 	<downloadfinished>
 		<PTBR>O download do mapa terminou</PTBR>
 		<ENG>The map download has finished</ENG>
 		<ES>La descarga del mapa ha finalizado</ES>
-		<TUR>Haritanın yüklemesi bitti</TUR>
+		<TR>Haritanın yüklemesi bitti</TR>
 	</downloadfinished>
 	<alreadydownloading>
 		<PTBR>Você já está baixando um mapa</PTBR>
 		<ENG>You're already downloading a map</ENG>
 		<ES>Ya estás descargando un mapa</ES>
-		<TUR>Zaten bir haritayı yüklüyorsun</TUR>
+		<TR>Zaten bir haritayı yüklüyorsun</TR>
 	</alreadydownloading>
 </language>
