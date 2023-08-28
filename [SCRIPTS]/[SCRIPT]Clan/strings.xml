@@ -3,111 +3,111 @@
         <PTBR>Criação de time</PTBR>
         <ENG>Team creator</ENG>
         <ES>Creador del equipo</ES>
-        <TUR>Takım oluştur</TUR>
+        <TR>Takım oluştur</TR>
         
     </panelname>
     <claname>
         <PTBR>Nome do time</PTBR>
         <ENG>Team name</ENG>
         <ES>Nombre team</ES>
-        <TUR>Takım ismi</TUR>
+        <TR>Takım ismi</TR>
     </claname>
     <namerules>
         <PTBR>- Não utilize espaços\n- Não utilize caracteres especiais\n</PTBR>
         <ENG>- Don't use blank spaces\n- Don't use special characters\n</ENG>
         <ES>- No utilice espacios\n- No utilice caracteres especiales\n</ES>
-        <TUR>- Yazı arasında boşluk kullanmayınız\n- Özel karakter kullanmayınız\n</TUR>
+        <TR>- Yazı arasında boşluk kullanmayınız\n- Özel karakter kullanmayınız\n</TR>
     </namerules>
     <teamtag>
         <PTBR>Tag do time:</PTBR>
         <ENG>Team tag:</ENG>
         <ES>Tag team:</ES>
-        <TUR>Takım etiketi:</TUR>
+        <TR>Takım etiketi:</TR>
     </teamtag>
     <create>
         <PTBR>Criar</PTBR>
         <ENG>Create</ENG>
         <ES>Crear</ES>
-        <TUR>Oluştur</TUR>
+        <TR>Oluştur</TR>
     </create>
     <unavailable>
         <PTBR>Nome indisponível</PTBR>
         <ENG>Unavailable name</ENG>
         <ES>Nombre indisponible</ES>
-        <TUR>Uygunsuz isim</TUR>
+        <TR>Uygunsuz isim</TR>
     </unavailable>
     <wronginfo>
         <PTBR>Algo está faltando</PTBR>
         <ENG>Something is missing</ENG>
         <ES>Falta algo</ES>
-        <TUR>Bir şeycikler yanlış</TUR>
+        <TR>Bir şeycikler yanlış</TR>
     </wronginfo>
     <alreadyhaveclan>
         <PTBR>Você já possuí um time!</PTBR>
         <ENG>You already have a team!</ENG>
         <ES>¡Ya tienes equipo!</ES>
-        <TUR>Zaten bir takımın var!</TUR>
+        <TR>Zaten bir takımın var!</TR>
     </alreadyhaveclan>
     <alreadymember>
         <PTBR>#FF0000*#FFFFFF Você já é membro de um time, saia dele primeiro.</PTBR>
         <ENG>#FF0000*#FFFFFF You already have a team, leave it first.</ENG>
         <ES>#FF0000*#FFFFFF Ya tienes un equipo, déjalo primero.</ES>
-        <TUR>#FF0000*#FFFFFF Zaten bir takımın var, önce oradan ayrılmalısın.</TUR>
+        <TR>#FF0000*#FFFFFF Zaten bir takımın var, önce oradan ayrılmalısın.</TR>
     </alreadymember>
     <noinvite>
         <PTBR>#FF0000*#FFFFFF Você não possuí nenhum convite ativo.</PTBR>
         <ENG>#FF0000*#FFFFFF You don't have any active invites.</ENG>
         <ES>#FF0000*#FFFFFF No tienes ninguna invitación activa.</ES>
-        <TUR>#FF0000*#FFFFFF Herhangi aktif bir davetin yok.</TUR>
+        <TR>#FF0000*#FFFFFF Herhangi aktif bir davetin yok.</TR>
     </noinvite>
     <accepted>
         <PTBR>#FF0000*#FFFFFF Parabéns, você agora é um membro do time </PTBR>
         <ENG>#FF0000*#FFFFFF Congrats, you are now a member of the team </ENG>
         <ES>#FF0000*#FFFFFF Felicidades, ahora eres miembro del equipo </ES>
-        <TUR>#FF0000*#FFFFFF Tebrikler, artık ekibin bir üyesisin </TUR>
+        <TR>#FF0000*#FFFFFF Tebrikler, artık ekibin bir üyesisin </TR>
     </accepted>
     <denied>
         <PTBR>#FF0000*#FFFFFF Você recusou o convite do time </PTBR>
         <ENG>#FF0000*#FFFFFF You've refused the team invite from </ENG>
         <ES>#FF0000*#FFFFFF Has rechazado la invitación del equipo de </ES>
-        <TUR>#FF0000*#FFFFFF Takım davetini reddettiniz </TUR>
+        <TR>#FF0000*#FFFFFF Takım davetini reddettiniz </TR>
     </denied>
     <receivedinvite>
         <PTBR>#000FF* #FFFFFFVocê recebeu um convite para o time </PTBR>
         <ENG>#000FF*#FFFFFF You've received a team invite to </ENG>
         <ES>#000FF*#FFFFFF Has recibido una invitación de equipo para </ES>
-        <TUR>#FF0000*#FFFFFF Bir ekip daveti aldınız </TUR>
+        <TR>#FF0000*#FFFFFF Bir ekip daveti aldınız </TR>
         
     </receivedinvite>
     <toaccept>
         <PTBR>#000FF* #FFFFFFDigite para aceitar: #00ff00/aceitar</PTBR>
         <ENG>#0000FF* #FFFFFFWrite the follow to accept: #00ff00/accept</ENG>
         <ES>#0000FF* #FFFFFFEscriba lo siguiente para aceptar: #00ff00/aceptar</ES>
-        <TUR>#0000FF* #FFFFFFKabul etmek için yazın: #00ff00/kabulet</TUR>
+        <TR>#0000FF* #FFFFFFKabul etmek için yazın: #00ff00/kabulet</TR>
         
     </toaccept>
     <todeny>
         <PTBR>#000FF* #FFFFFFDigite para recusar: #FF0000/recusar</PTBR>
         <ENG>#0000FF* #FFFFFFWrite the follow to deny: #FF0000/deny</ENG>
         <ES>#0000FF* #FFFFFFEscriba lo siguiente para rechazar: #FF0000/rechazar</ES>
-        <TUR>#0000FF* #FFFFFFReddetmek için yazın: #00ff00/reddet</TUR>
+        <TR>#0000FF* #FFFFFFReddetmek için yazın: #00ff00/reddet</TR>
     </todeny>
     <todecide>
         <PTBR>#000FF* #FFFFFFVocê possuí 5 minutos para decidir</PTBR>
         <ENG>#0000FF* #FFFFFFYou have 5 minutes to decide</ENG>
         <ES>#0000FF* #FFFFFFTienes 5 minutos para decidir</ES>
-        <TUR>#0000FF* #FFFFFFKarar vermen için 5 dakikan var hadi la</TUR>
+        <TR>#0000FF* #FFFFFFKarar vermen için 5 dakikan var hadi la</TR>
     </todecide>
     <automaticdeny>
         <PTBR>#FF0000* #FFFFFFO tempo passou e você negou o convite do clã automaticamente</PTBR>
         <ENG>#FF0000* #FFFFFFTime has passed and you have automatically denied the clan invite</ENG>
         <ES>#FF0000* #FFFFFFHa pasado el tiempo y automáticamente has denegado la invitación del equipo.</ES>
-        <TUR>#FF0000* #FFFFFFZamanın doldu ve davet otomatik olarak iptal edildi</TUR>
+        <TR>#FF0000* #FFFFFFZamanın doldu ve davet otomatik olarak iptal edildi</TR>
     </automaticdeny>
     <onlyadmins>
         <PTBR>#FF0000* #FFFFFFApenas admins/dono do time podem convidar!</PTBR>
         <ENG>#FF0000* #FFFFFFOnly admins/owner of the team can invite!</ENG>
         <ES>#FF0000* #FFFFFFSolo los administradores/dueño del equipo pueden invitar!</ES>
-        <TUR>#FF0000* #FFFFFFYalnızca takıma yetkili/yönetici davet edebilir!</TUR>
+        <TR>#FF0000* #FFFFFFYalnızca takıma yetkili/yönetici davet edebilir!</TR>
     </onlyadmins>
 </language>
