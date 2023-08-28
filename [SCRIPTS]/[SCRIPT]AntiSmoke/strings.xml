@@ -4,11 +4,13 @@
         <ENG>Smoke #00FF00enabled</ENG>
         <ES>Humo #00FF00activo</ES>
         <RU>Дым #00FF00включен</RU>
+        <TUR>Duman #00FF00aktif</TUR>
     </enabled>
     <disabled>
         <PTBR>Fumaça #00FF00desativa</PTBR>
         <ENG>Smoke #00FF00disabled</ENG>
         <ES>Humo #00FF00deactiva</ES>
         <RU>Дым #00FF00выключен</RU>
+        <TUR>Duman #00FF00deaktif</TUR>
     </disabled>
 </language>
