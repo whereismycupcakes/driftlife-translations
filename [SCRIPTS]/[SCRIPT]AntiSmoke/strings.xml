@@ -3,12 +3,12 @@
         <PTBR>Fumaça #00FF00ativa</PTBR>
         <ENG>Smoke #00FF00enabled</ENG>
         <ES>Humo #00FF00activo</ES>
-        <TUR>Duman #00FF00aktif</TUR>
+        <TR>Duman #00FF00aktif</TR>
     </enabled>
     <disabled>
         <PTBR>Fumaça #00FF00desativa</PTBR>
         <ENG>Smoke #00FF00disabled</ENG>
         <ES>Humo #00FF00deactiva</ES>
-        <TUR>Duman #00FF00deaktif</TUR>
+        <TR>Duman #00FF00deaktif</TR>
     </disabled>
 </language>
