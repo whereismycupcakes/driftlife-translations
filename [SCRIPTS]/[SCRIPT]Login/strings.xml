@@ -3,90 +3,108 @@
         <PTBR>Logar</PTBR>
         <ENG>Login</ENG>
         <ES>Logar</ES>
+        <TUR>Giriş yap</TUR>
     </login>
     <account>
         <PTBR>Conta</PTBR>
         <ENG>Account</ENG>
         <ES>Cuenta</ES>
+        <TUR>Hesap</TUR>
     </account>
     <password>
         <PTBR>Senha</PTBR>
         <ENG>Password</ENG>
         <ES>Contrasenã</ES>
+        <TUR>Şifre</TUR>
     </password>
     <remember>
         <PTBR>Lembrar</PTBR>
         <ENG>Remember</ENG>
         <ES>Recordar</ES>
+        <TUR>Beni hatırla</TUR>
     </remember>
     <register>
         <PTBR>Registro</PTBR>
         <ENG>Register</ENG>
         <ES>Registro</ES>
+        <TUR>Kayıt ol</TUR>
     </register>
     <specialcharacter>
         <PTBR>Não utilize caracteres especiais</PTBR>
         <ENG>Don't use special characters</ENG>
         <ES>No use caracteres especiales</ES>
+        <TUR>Özel karakter kullanma</TUR>
     </specialcharacter>
     <specialcharacter>
         <PTBR>Não utilize caracteres especiais</PTBR>
         <ENG>Don't use special characters</ENG>
         <ES>No use caracteres especiales</ES>
+        <TUR>Özel karakter kullanma</TUR>
     </specialcharacter>
     <repeatpassword>
         <PTBR>Repita a senha</PTBR>
         <ENG>Repeat password</ENG>
         <ES>Repite la contraseña</ES>
+        <TUR>Şifreyi tekrarla</TUR>
     </repeatpassword>
     <createacc>
         <PTBR>Criar conta</PTBR>
         <ENG>Create account</ENG>
         <ES>Crear cuenta</ES>
+        <TUR>Hesap oluştur</TUR>
     </createacc>
     <wrongdata>
         <PTBR>Usuário ou senha incorretos</PTBR>
         <ENG>Wrong username or password</ENG>
         <ES>Cuenta o contraseña incorrectas</ES>
+        <TUR>Yanlış kullanıcı ismi veya şifre</TUR>
     </wrongdata>
     <passmissing>
         <PTBR>A senha está faltando</PTBR>
         <ENG>The password is missing</ENG>
         <ES>Falta la contraseña</ES>
+        <TUR>Eksik şifre</TUR>
     </passmissing>
     <usermissing>
         <PTBR>A conta está faltando</PTBR>
         <ENG>The account is missing</ENG>
         <ES>Falta la cuenta</ES>
+        <TUR>Eksik hesap</TUR>
     </usermissing>
     <successregister>
         <PTBR>Você se registrou com sucesso</PTBR>
         <ENG>You have successfully registered</ENG>
         <ES>Se ha registrado exitosamente</ES>
+        <TUR>Başarıyla kayıt oldun</TUR>
     </successregister>
     <errorocurred>
         <PTBR>Ocorreu um erro, tente com outro usuário/senha</PTBR>
         <ENG>An error ocurred, please choose different username/password</ENG>
         <ES>Ocurrió un error, elija una cuenta/contraseña diferente</ES>
+        <TUR>Bir hata oluştu, lütfen farklı bir kullanıcı adı/şifre seçin</TUR>
     </errorocurred>
     <accalreadyexist>
         <PTBR>Uma conta já existe com este nome</PTBR>
         <ENG>An account with this username already exists</ENG>
         <ES>Ya existe una cuenta con este nombre de usuario</ES>
+        <TUR>Bu kullanıcı adına sahip bir hesap zaten mevcut</TUR>
     </accalreadyexist>
     <passwordmismatch>
         <PTBR>As senhas não conferem</PTBR>
         <ENG>Passwords don't match</ENG>
         <ES>Las contraseñas no coinciden</ES>
+        <TUR>Şifre uyuşmuyor</TUR>
     </passwordmismatch>
     <confirmpassword>
         <PTBR>Por favor confirme a senha</PTBR>
         <ENG>Please confirm the password</ENG>
         <ES>Por favor confirme la contraseña</ES>
+        <TUR>Şifreyi onaylayın</TUR>
     </confirmpassword>
         <confirmpassword>
         <PTBR>Por favor confirme a senha</PTBR>
         <ENG>Please confirm the password</ENG>
         <ES>Por favor confirme la contraseña</ES>
+        <TUR>Şifreyi onaylayın</TUR>
     </confirmpassword>
 </language>
